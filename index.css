@@ -1,11 +1,7 @@
-body {
-    background-color:pink
-}
-
-
-
-
 header {
     color:beige;
-    background-color:salmon;
+    background-color:rgb(159, 228, 240);
+}
+body {
+    background-color:pink
 }
