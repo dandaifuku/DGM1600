@@ -5,3 +5,11 @@ header {
 body {
     background-color:pink
 }
+
+#namedate {
+    display: flex;
+}
+
+.about-me {
+    display: flex;
+}
