@@ -1,6 +1,8 @@
 .header {
     color:beige;
     background-color:rgb(159, 228, 240);
+    margin-bottom: 15px;
+
 }
 .body {
     background-color:pink
@@ -8,6 +10,7 @@
 
 #namedate {
     display: flex;
+    
 }
 
 .about-me {
