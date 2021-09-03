@@ -1,8 +1,8 @@
-header {
+.header {
     color:beige;
     background-color:rgb(159, 228, 240);
 }
-body {
+.body {
     background-color:pink
 }
 
@@ -12,4 +12,7 @@ body {
 
 .about-me {
     display: flex;
+}
+.profileimg {
+    aspect-ratio: 1;
 }
