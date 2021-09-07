@@ -1,6 +1,14 @@
+* {
+    margin: 0;
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
 .header {
-    color:beige;
-    background-color:rgb(159, 228, 240);
+    color:black;
+    background-color:aliceblue;
     margin-bottom: 15px;
 
 }
@@ -10,11 +18,30 @@
 
 #namedate {
     display: flex;
-    
+    padding: 16px; 
+    margin-left: 16px;
 }
 
 .about-me {
     display: flex;
 }
 .profileimg {
+aspect-ratio: 1;
+}
+
+.biohazard {
+    background-color: aliceblue;
+    width: 100%;
+}
+
+#name {
+    padding: 0px 4px;
+}
+
+#date {
+    padding: 0px 4px;
+}
+
+#choose {
+    margin-left: 16px;
 }
