@@ -18,7 +18,10 @@ section {
 display: flex;
 justify-content: center;
 background-color: #103e50;
+display: flex;
 }
+
+
 
 .body {
     background-color:#74353f;
