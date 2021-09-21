@@ -21,6 +21,10 @@ background-color: #103e50;
 display: flex;
 }
 
+header img {
+    height: 38px;
+    width: 30px;
+}
 
 
 .body {
@@ -39,6 +43,7 @@ bottom: 15px;
 .about-me {
     display: flex;
 max-height: 196px;
+margin: 20px 0px 32px 0px;
 }
 
 .profileimg {
@@ -131,7 +136,7 @@ padding: 20px 10px;
 }
 
 .excited p {
-    padding: 0px 0px 4rem 0px; 
+    padding: 0px 0px 2rem 0px; 
     color: white;
 }
 
